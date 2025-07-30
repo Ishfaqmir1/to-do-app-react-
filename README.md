@@ -11,7 +11,7 @@ A simple To-Do List made with **React + Vite + Tailwind CSS**
 
 ##  Live Site
 
-https://ishfaqmir1.github.io/todo-app/
+ https://ishfaqmir1.github.io/to-do-app-react-/
 
 
 
