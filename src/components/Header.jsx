@@ -6,7 +6,7 @@ const Header = () => (
     </h1>
 
     <a
-      href="https://github.com/your-github-username/your-repo-name"
+      href="https://github.com/Ishfaqmir1/to-do-app-react-.git"
       target="_blank"
       rel="noopener noreferrer"
       className="flex items-center gap-2 group transition hover:text-black text-gray-600"
