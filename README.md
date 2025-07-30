@@ -1,17 +1,36 @@
-#  My To-Do List – React App
+# MY To-Do List App
 
-A simple To-Do List made with **React + Vite + Tailwind CSS**
+A simple, elegant, and fully functional **To-Do List Application** built with **React, Vite, and Tailwind CSS**.  
+It allows users to add, edit, delete, and mark tasks as completed — with a clean, responsive design.
+
+---
+
+## Live Demo
+
+ [Click here to view the live app](https://ishfaqmir1.github.io/to-do-app-react-/)
+
+---
 
 ##  Features
 
-- Add, edit, delete tasks
-- Mark tasks as complete
-- Responsive design
-- Clean UI
+-  Add new tasks
+-  Edit existing tasks
+-  Mark tasks as completed
+-  Delete tasks
+-  Responsive design (works on mobile + desktop)
+-  Styled with Tailwind CSS
+-  Deployed on GitHub Pages
 
-##  Live Site
+---
 
- https://ishfaqmir1.github.io/to-do-app-react-/
+##  Tech Stack
+
+- **React**
+- **Vite**
+- **Tailwind CSS**
+- **gh-pages** for deployment
+
+---
 
 
-
+ site is live at (https://ishfaqmir1.github.io/to-do-app-react-/)
